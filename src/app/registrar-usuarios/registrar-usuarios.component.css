@@ -1,0 +1,28 @@
+:host {
+    display: block;
+    padding: 20px;
+  }
+ 
+  .card {
+    border-radius: 10px;
+  }
+ 
+  .card-header {
+    border-bottom: 1px solid #dee2e6;
+  }
+ 
+  .card-body {
+    padding: 30px;
+  }
+ 
+  .btn-success {
+    background-color: #28a745;
+    border: none;
+    padding: 10px 20px;
+  }
+ 
+  .btn-success:hover {
+    background-color: #218838;
+    border-color: #1e7e34;
+  }
+ 
